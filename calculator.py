@@ -7,5 +7,3 @@ def multiply(a,b):
   return a*b
 def divide_free(a,b):
   return a/b
-def squaer(a):
-  return a**a 
